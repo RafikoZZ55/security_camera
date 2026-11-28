@@ -1,6 +1,0 @@
--mlongcalls
--fno-builtin-memcpy
--fno-builtin-memset
--fno-builtin-bzero
-"-specs=R:/Documents/security_camera/software/build/specs/picolibc.specs"
--fno-rtti

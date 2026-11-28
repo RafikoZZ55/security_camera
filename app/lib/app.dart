@@ -14,6 +14,9 @@ class _State extends State<App> {
         title: Text("Seciurity app"),
         leading: Icon(Icons.home),
       ),
+      body: Center(
+        child: Text("hello world"),
+      ),
     );
   }
 }
